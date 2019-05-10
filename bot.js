@@ -117,5 +117,5 @@ const pingdom = () => {
 doSomething();
 pingdom();
 setInterval(pingdom, 600000);
-setInterval(doSomething, 1800000);
+setInterval(doSomething, 10800000);
 app.listen(process.env["PORT"] || 8888, () => console.log('Tao là bot, đang chạy đây. Queo com tu đờ heo'));
