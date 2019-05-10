@@ -621,68 +621,6 @@ var fetch_content = [
     }
   },
   {
-    "id": "267678777227239_335333767128406",
-    "from": {
-      "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-      "category": "Shopping & Retail",
-      "category_list": [
-        {
-          "id": "200600219953504",
-          "name": "Shopping & Retail"
-        },
-        {
-          "id": "2201",
-          "name": "Product/Service"
-        }
-      ],
-      "id": "267678777227239"
-    },
-    "message": "Hàng đi trong đêm cho Khách nhà Bầu 🙈🙈🙈\n💥💥💥 Mẹ Bầu Online đã có mặt trên Lazada : www.lazada.vn/mebauonline\n\n======================\n👶 MẸ BẦU ONLINE - CHUYÊN SỈ & LẺ SẢN PHẨM DÀNH CHO MẸ VÀ BÉ\n🏠 22/5/5A Đường 26, phường Linh Đông, quận Thủ Đức, Thành phố Hồ Chí Minh\n🌐 Website: http://mebauonline.com\n📞 Hotline: 0934.243.273\n📧 Email: cskh@mebauonline.com\n🔥 Shopee: https://shopee.vn/mebauonline\n🌈 Lazada: www.lazada.vn/mebauonline\n⚡️ Messenger: m.me/mebauonline",
-    "story": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    "story_tags": {
-      "0": [
-        {
-          "id": "267678777227239",
-          "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-          "type": "page",
-          "offset": 0,
-          "length": 57
-        }
-      ]
-    },
-    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/54434497_312939739367809_5992394463652085760_n.jpg?_nc_cat=109&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=f11eda3baa7f804a9738a856a6639b32&oe=5D2B374A",
-    "link": "https://www.facebook.com/mebauonline/photos/a.275353543126429/312939736034476/?type=3",
-    "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    "description": "Hàng đi trong đêm cho Khách nhà Bầu 🙈🙈🙈\n💥💥💥 Mẹ Bầu Online đã có mặt trên Lazada : www.lazada.vn/mebauonline\n\n======================\n👶 MẸ BẦU ONLINE - CHUYÊN SỈ & LẺ SẢN PHẨM DÀNH CHO MẸ VÀ BÉ\n🏠 22/5/5A Đường 26, phường Linh Đông, quận Thủ Đức, Thành phố Hồ Chí Minh\n🌐 Website: http://mebauonline.com\n📞 Hotline: 0934.243.273\n📧 Email: cskh@mebauonline.com\n🔥 Shopee: https://shopee.vn/mebauonline\n🌈 Lazada: www.lazada.vn/mebauonline\n⚡️ Messenger: m.me/mebauonline",
-    "actions": [
-      {
-        "name": "Comment",
-        "link": "https://www.facebook.com/267678777227239/posts/335333767128406"
-      },
-      {
-        "name": "Like",
-        "link": "https://www.facebook.com/267678777227239/posts/335333767128406"
-      }
-    ],
-    "privacy": {
-      "value": "EVERYONE",
-      "description": "Public",
-      "friends": "",
-      "allow": "",
-      "deny": ""
-    },
-    "type": "photo",
-    "status_type": "mobile_status_update",
-    "object_id": "312939736034476",
-    "created_time": "2019-05-09T17:32:27+0000",
-    "updated_time": "2019-05-09T17:32:27+0000",
-    "is_hidden": false,
-    "is_expired": false,
-    "comments": {
-      "count": 0
-    }
-  },
-  {
     "id": "267678777227239_335324883795961",
     "from": {
       "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
@@ -1296,68 +1234,6 @@ var fetch_content = [
     "object_id": "311389312856185",
     "created_time": "2019-05-09T03:36:55+0000",
     "updated_time": "2019-05-09T03:36:55+0000",
-    "is_hidden": false,
-    "is_expired": false,
-    "comments": {
-      "count": 0
-    }
-  },
-  {
-    "id": "267678777227239_335092777152505",
-    "from": {
-      "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-      "category": "Shopping & Retail",
-      "category_list": [
-        {
-          "id": "200600219953504",
-          "name": "Shopping & Retail"
-        },
-        {
-          "id": "2201",
-          "name": "Product/Service"
-        }
-      ],
-      "id": "267678777227239"
-    },
-    "message": "Hàng đi trong đêm cho Khách nhà Bầu 🙈🙈🙈\n💥💥💥 Mẹ Bầu Online đã có mặt trên Lazada : www.lazada.vn/mebauonline\n\n======================\n👶 MẸ BẦU ONLINE - CHUYÊN SỈ & LẺ SẢN PHẨM DÀNH CHO MẸ VÀ BÉ\n🏠 22/5/5A Đường 26, phường Linh Đông, quận Thủ Đức, Thành phố Hồ Chí Minh\n🌐 Website: http://mebauonline.com\n📞 Hotline: 0934.243.273\n📧 Email: cskh@mebauonline.com\n🔥 Shopee: https://shopee.vn/mebauonline\n🌈 Lazada: www.lazada.vn/mebauonline\n⚡️ Messenger: m.me/mebauonline",
-    "story": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    "story_tags": {
-      "0": [
-        {
-          "id": "267678777227239",
-          "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-          "type": "page",
-          "offset": 0,
-          "length": 57
-        }
-      ]
-    },
-    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/54434497_312939739367809_5992394463652085760_n.jpg?_nc_cat=109&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=f11eda3baa7f804a9738a856a6639b32&oe=5D2B374A",
-    "link": "https://www.facebook.com/mebauonline/photos/a.275353543126429/312939736034476/?type=3",
-    "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    "description": "Hàng đi trong đêm cho Khách nhà Bầu 🙈🙈🙈\n💥💥💥 Mẹ Bầu Online đã có mặt trên Lazada : www.lazada.vn/mebauonline\n\n======================\n👶 MẸ BẦU ONLINE - CHUYÊN SỈ & LẺ SẢN PHẨM DÀNH CHO MẸ VÀ BÉ\n🏠 22/5/5A Đường 26, phường Linh Đông, quận Thủ Đức, Thành phố Hồ Chí Minh\n🌐 Website: http://mebauonline.com\n📞 Hotline: 0934.243.273\n📧 Email: cskh@mebauonline.com\n🔥 Shopee: https://shopee.vn/mebauonline\n🌈 Lazada: www.lazada.vn/mebauonline\n⚡️ Messenger: m.me/mebauonline",
-    "actions": [
-      {
-        "name": "Comment",
-        "link": "https://www.facebook.com/267678777227239/posts/335092777152505"
-      },
-      {
-        "name": "Like",
-        "link": "https://www.facebook.com/267678777227239/posts/335092777152505"
-      }
-    ],
-    "privacy": {
-      "value": "EVERYONE",
-      "description": "Public",
-      "friends": "",
-      "allow": "",
-      "deny": ""
-    },
-    "type": "photo",
-    "status_type": "mobile_status_update",
-    "object_id": "312939736034476",
-    "created_time": "2019-05-09T03:36:38+0000",
-    "updated_time": "2019-05-09T03:36:38+0000",
     "is_hidden": false,
     "is_expired": false,
     "comments": {
