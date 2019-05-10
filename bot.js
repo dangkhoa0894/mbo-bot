@@ -118,4 +118,5 @@ doSomething();
 pingdom();
 setInterval(pingdom, 600000);
 setInterval(doSomething, 10800000);
+console.log("version: 0.0.5");
 app.listen(process.env["PORT"] || 8888, () => console.log('Tao là bot, đang chạy đây. Queo com tu đờ heo'));
