@@ -131,72 +131,6 @@ var fetch_content = [
     }
   },
   {
-    id: "267678777227239_335520717109711",
-    from: {
-      name: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-      category: "Shopping & Retail",
-      category_list: [
-        {
-          id: "200600219953504",
-          name: "Shopping & Retail"
-        },
-        {
-          id: "2201",
-          name: "Product/Service"
-        }
-      ],
-      id: "267678777227239"
-    },
-    message:
-      "Cảm ơn Khách đã ủng hộ Mẹ Bầu Online ❤\nShop gói hàng không kịp với Khách luôn đây ạ 🙈🙈🙈",
-    story: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    story_tags: {
-      "0": [
-        {
-          id: "267678777227239",
-          name: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-          type: "page",
-          offset: 0,
-          length: 57
-        }
-      ]
-    },
-    picture:
-      "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/55776403_318093412185775_5767074109867425792_n.jpg?_nc_cat=107&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=a8142616a1e3db7858579472a282a5cb&oe=5D625ECA",
-    link:
-      "https://www.facebook.com/mebauonline/photos/a.275353543126429/318093408852442/?type=3",
-    name: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-    description:
-      "Cảm ơn Khách đã ủng hộ Mẹ Bầu Online ❤\nShop gói hàng không kịp với Khách luôn đây ạ 🙈🙈🙈",
-    actions: [
-      {
-        name: "Comment",
-        link: "https://www.facebook.com/267678777227239/posts/335520717109711"
-      },
-      {
-        name: "Like",
-        link: "https://www.facebook.com/267678777227239/posts/335520717109711"
-      }
-    ],
-    privacy: {
-      value: "EVERYONE",
-      description: "Public",
-      friends: "",
-      allow: "",
-      deny: ""
-    },
-    type: "photo",
-    status_type: "mobile_status_update",
-    object_id: "318093408852442",
-    created_time: "2019-05-10T05:19:46+0000",
-    updated_time: "2019-05-10T05:19:46+0000",
-    is_hidden: false,
-    is_expired: false,
-    comments: {
-      count: 0
-    }
-  },
-  {
     id: "267678777227239_335514040443712",
     from: {
       name: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
@@ -1979,63 +1913,6 @@ var fetch_content = [
     }
   },
   {
-    id: "267678777227239_311131439548639",
-    from: {
-      name: "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-      category: "Shopping & Retail",
-      category_list: [
-        {
-          id: "200600219953504",
-          name: "Shopping & Retail"
-        },
-        {
-          id: "2201",
-          name: "Product/Service"
-        }
-      ],
-      id: "267678777227239"
-    },
-    message:
-      "💞 Thứ 7 máu chảy về tim 💞\n🌈 Được Khách thương nên là Mẹ Bầu gói hàng và chạy đi gửi hàng liên tục nè!\n😉 Khách yên tâm là hàng sẽ về tay trong nay mai thôi ạ!\n\n======================\n👶 MẸ BẦU ONLINE - CHUYÊN SỈ & LẺ SẢN PHẨM DÀNH CHO MẸ VÀ BÉ\n🏠 22/5/5A Đường 26, phường Linh Đông, quận Thủ Đức, Thành phố Hồ Chí Minh\n🌐 Website: http://mebauonline.com\n📞 Hotline: 0934.243.273\n📧 Email: cskh@mebauonline.com\n🔥 Shopee: https://shopee.vn/mebauonline\n⚡️ Messenger: m.me/mebauonline",
-    picture:
-      "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/53349984_311130066215443_5062141449697492992_n.jpg?_nc_cat=105&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=170327242347d552052f6ce8bd011a81&oe=5D567252",
-    link:
-      "https://www.facebook.com/mebauonline/photos/a.275353543126429/311130062882110/?type=3",
-    name:
-      "Photos from Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé's post",
-    icon: "https://www.facebook.com/images/icons/photo.gif",
-    actions: [
-      {
-        name: "Comment",
-        link: "https://www.facebook.com/267678777227239/posts/311131439548639"
-      },
-      {
-        name: "Like",
-        link: "https://www.facebook.com/267678777227239/posts/311131439548639"
-      }
-    ],
-    privacy: {
-      value: "EVERYONE",
-      description: "Public",
-      friends: "",
-      allow: "",
-      deny: ""
-    },
-    type: "photo",
-    status_type: "added_photos",
-    object_id: "311130062882110",
-    created_time: "2019-03-09T14:18:24+0000",
-    updated_time: "2019-03-09T14:18:24+0000",
-    is_hidden: false,
-    is_expired: false,
-    likes: {
-      count: 3
-    },
-    comments: {
-      count: 0
-    }
-  },
-  {
     "id": "267678777227239_311032932891823",
     "from": {
       "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
@@ -3772,66 +3649,6 @@ var fetch_content = [
     "object_id": "302631160398667",
     "created_time": "2019-02-15T07:23:16+0000",
     "updated_time": "2019-02-15T07:23:16+0000",
-    "is_hidden": false,
-    "is_expired": false,
-    "comments": {
-      "count": 0
-    }
-  },
-  {
-    "id": "267678777227239_301326773862439",
-    "from": {
-      "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-      "category": "Shopping & Retail",
-      "category_list": [
-        {
-          "id": "200600219953504",
-          "name": "Shopping & Retail"
-        },
-        {
-          "id": "2201",
-          "name": "Product/Service"
-        }
-      ],
-      "id": "267678777227239"
-    },
-    "message": "🎉 Happy New Year 2019 - Mừng năm Kỷ Hợi, Mẹ Bầu Online xin gửi lời cám ơn chân thành đến Quý khách hàng đã tin tưởng và ủng hộ Mẹ Bầu Online trong thời gian vừa qua.\n\n🎀 Kính chúc Quý Khách Hàng một năm mới Vạn Sự Như Ý - Sức Khỏe - Bình An.\n\n💖 Khi Mẹ cần những sản phẩm chất lượng cho Bé Yêu nhà mình 👉 hãy liên hệ ngay với Mẹ Bầu Online để được nhận các chương trình khuyến mãi hấp dẫn nhé!\n \nThông tin liên hệ: \n💪 Facebook: https://facebook.com/mebauonline\n🏪 Shopee: https://shopee.vn/mebauonline\n🌐 Website: http://mebauonline.com\n☎️ Hotline: 0934.243.273\n📩 Email:  cskh@mebauonline.com\n#MeBauOnline #SanPhamMeBe #ChinhHang #KhuyenMaiSoc #MevaBe",
-    "message_tags": {
-      "426": [
-        {
-          "id": "267678777227239",
-          "name": "Mẹ Bầu Online - Chuyên sỉ & lẻ sản phẩm dành cho mẹ và bé",
-          "type": "page",
-          "offset": 426,
-          "length": 32
-        }
-      ]
-    },
-    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/52097251_301326760529107_4691605305287507968_n.jpg?_nc_cat=105&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=8f513164eb803d74310c08eea9091db2&oe=5D766B3E",
-    "link": "https://www.facebook.com/mebauonline/photos/a.275353543126429/301326757195774/?type=3",
-    "icon": "https://www.facebook.com/images/icons/photo.gif",
-    "actions": [
-      {
-        "name": "Comment",
-        "link": "https://www.facebook.com/267678777227239/posts/301326773862439"
-      },
-      {
-        "name": "Like",
-        "link": "https://www.facebook.com/267678777227239/posts/301326773862439"
-      }
-    ],
-    "privacy": {
-      "value": "EVERYONE",
-      "description": "Public",
-      "friends": "",
-      "allow": "",
-      "deny": ""
-    },
-    "type": "photo",
-    "status_type": "added_photos",
-    "object_id": "301326757195774",
-    "created_time": "2019-02-12T04:27:22+0000",
-    "updated_time": "2019-02-12T04:27:22+0000",
     "is_hidden": false,
     "is_expired": false,
     "comments": {
