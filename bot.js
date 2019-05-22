@@ -41,7 +41,7 @@ app.get("/facebook-search/:id", (req, res) => {
 const post_now = _post => {
   const postTextOptions = {
     method: "POST",
-    uri: `https://graph.facebook.com/v2.2/267678777227239/feed?`,
+    uri: `https://graph.facebook.com/v3.3/267678777227239/feed?`,
     qs: {
       access_token: process.env["FACEBOOK_TOKEN"],
       name: _post.name,
