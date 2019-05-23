@@ -112,7 +112,7 @@ const doSomething = () => {
 
 const pingdom = () => {
   console.log("\n=====================");
-  console.log("Tao vẫn còn sống, đmm");
+  console.log("Giờ hiện tại: " + getDateTime());
 };
 doSomething();
 pingdom();
